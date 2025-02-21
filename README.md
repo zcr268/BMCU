@@ -12,7 +12,8 @@ BMCU打包文件目前发布在群内，或可以从[https://oshwhub.com/bamboo-
 
  **2.  所需刷写的固件见release** 
 
- **3.  安装教程暂无，后续推出** 
+ **3.  安装及使用教程参加wiki(由群友@丸子 牵头搭建，社区共建中)** 
+地址：[https://bmcu.xwzkj.top/](https://bmcu.xwzkj.top/)
 
 #### 软件架构
 主要文件：
@@ -31,7 +32,7 @@ Debug_log.cpp/h：          用于DMA发送DEBUG数据到串口3
 
 BambuBus.cpp/h：           用于支持拓竹打印机的通讯，使用了串口0
 
-Klipper.cpp/h：            （未完成，新建文件夹）用于支持klipper的通讯
+Klipper.cpp/h：            （因klipper机型众多，停止开发）用于支持klipper的通讯
 
 ws2812.cpp/h：             IO模拟的WS2812驱动
 
@@ -46,6 +47,8 @@ robtillaart/CRC@^1.0.3     用于计算CRC校验
 4061N-程序员，优化机械部分，设计PCB
 
 括号-参与BMCU组件框架及BMCU到打印机支架的设计
+
+部分群友也参与了设计，这里暂未列出
 
 测试和数据提供者：
 
