@@ -15,7 +15,7 @@ BMCU打包文件目前发布在群内，或可以从[https://oshwhub.com/bamboo-
 
  **3.  安装及使用教程参见wiki(由群友@丸子 牵头搭建，社区共建中)** 
 
-地址：[https://bmcu.xwzkj.top/](https://bmcu.xwzkj.top/)
+地址：[https://bmcu.wanzii.cn/](https://bmcu.wanzii.cn/)
 
 #### 软件架构
 主要文件：
